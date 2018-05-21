@@ -1,0 +1,9 @@
+compile
+die
+dir
+example
+run
+scalaVersion
+sbt new scala/hello-world.g8
+ls
+dir
